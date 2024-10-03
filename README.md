@@ -1,9 +1,9 @@
-# Your Project's Title...
-Your project's description...
+# AEM Live Dev Tutorial
+Following along with [https://www.aem.live/developer/tutorial](https://www.aem.live/developer/tutorial)
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.aem.page/
-- Live: https://main--{repo}--{owner}.aem.live/
+- Preview: https://main--aem-boilerplate--inlikealion.aem.page/
+- Live: https://main--aem-boilerplate--inlikealion.aem.live/
 
 ## Installation
 
